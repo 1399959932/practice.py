@@ -181,3 +181,16 @@ Traceback (most recent call last):
     print(hex(x))
 NameError: name 'x' is not defined
 >>> 
+ RESTART: C:/Users/JK-chenxs/AppData/Local/Programs/Python/Python36-32/Day/day7_1.py 
+>>> 
+>>> 6
+6
+>>> 
+ RESTART: C:/Users/JK-chenxs/AppData/Local/Programs/Python/Python36-32/Day/day7_1.py 
+>>> def my_abs(x):
+    if x >= 0:
+        return x
+    else:
+        return -x
+
+>>> my_
